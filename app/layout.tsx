@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "MetaPilot - Web3 Automation Platform",
     description: "Delegate your Web3 tasks to AI agents that execute automatically based on your preferences",
-    url: "https://metapilot.aihttps://metapilot-frontend.vercel.app/",
+    url: "https://metapilot-frontend.vercel.app/",
     siteName: "MetaPilot",
     images: [{
       url: "/images/metapilot-og-image.png",
